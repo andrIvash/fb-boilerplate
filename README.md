@@ -11,11 +11,11 @@
 
 
 ### Для работы с фронтенд
-```gulp``` - development
-```npm run build``` - production
+- ```gulp``` - development
+- ```npm run build``` - production
 
 ### Для работы с бекенд
-```npm run api``` - production
+```npm run api```
 
 ### Для совместной работы
 ```npm run start```
