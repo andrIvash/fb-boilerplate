@@ -8,5 +8,18 @@
 2. ```cd path/to/...```
 3. ```npm install gulpjs/gulp-cli -g```
 4. ```npm install```  
-5. ```gulp```
+
+
+### Для работы с фронтенд
+```gulp``` - development
+```npm run build``` - production
+
+### Для работы с бекенд
+```npm run api``` - production
+
+### Для совместной работы
+```npm run start```
+
+### Пример запрома к api
+```GET /api/```
 

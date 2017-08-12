@@ -11,6 +11,8 @@ global.$ = {
     app: require('./gulp/paths/app.js')
   },
   util: util,
+  url: require('url'),
+  proxy: require('proxy-middleware'),
   gulp: require('gulp'),
   rimraf: require('rimraf'),
   browserSync: require('browser-sync').create(),

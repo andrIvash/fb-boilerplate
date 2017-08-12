@@ -1,5 +1,5 @@
 module.exports = {
   root: './build',
 
-  autoprefixerConfig: ['last 3 version', 'ie11']
+  autoprefixerConfig: ['last 3 version', 'ie 11']
 };
